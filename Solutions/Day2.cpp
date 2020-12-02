@@ -11,7 +11,6 @@ int main()
     std::string input, line;
     std::string password;
 
-    
     while (std::getline(std::cin, line))
     {
         std::istringstream is{ line };
