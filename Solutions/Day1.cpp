@@ -20,7 +20,7 @@ int main()
             if (*i + *y == 2020) std::cout << *i << " x " << *y << " = "<< (*i) * (*y)<< std::endl;
 
     //Part 2
-    std::cout << std::endl << "Part 1 answer: ";
+    std::cout << std::endl << "Part 2 answer: ";
     
     for (auto i = input.begin(); i < input.end()-2; ++i)
         for (auto y = i + 1; y < input.end()-1; ++y)
