@@ -1,2 +1,2 @@
 # AoC2020
-My solutions for Advent of Code 2020
+My C++ solutions for Advent of Code 2020
